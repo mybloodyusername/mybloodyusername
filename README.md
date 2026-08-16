@@ -1,1 +1,1 @@
-<a href="https://daily.dev/mybloodyusername"><img src="https://api.daily.dev/devcards/v2/52IKnRRUDyT6Ijhe8cuT8.png?r=aes&type=wide" width="652" alt="Yashar Sanaei's Dev Card"/></a>
+<a href="https://daily.dev/mybloodyusername"><img src="./devcard.png" width="652" alt="Yashar Sanaei's Dev Card"/></a>
